@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background-color: blue;
+    background: linear-gradient( blue, grey);
+}
+table {
+    background-color: white;
+    background: linear-gradient(green,white);
+}
